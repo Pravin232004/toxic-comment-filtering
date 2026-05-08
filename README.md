@@ -41,15 +41,16 @@ A machine learning-powered system that detects toxic comments and applies intell
 ## Project Structure
 
 ```
-
-toxic_comment/
+toxic-comment-filtering/
 │
-├── data/                  # Dataset
-├── models/                # Saved model & vectorizer
-│   ├── toxicity_model.pkl
-│   └── vectorizer.pkl
+├── data/                  # Dataset (not included, see Dataset section)
+│
+├── models/                # Saved model & vectorizer (generated after training)
+|   
+├── assets/               # UI images/screenshots   
 │
 ├── src/
+│   ├── __init__.py
 │   ├── preprocess.py
 │   ├── train_model.py
 │   ├── evaluate.py
