@@ -41,6 +41,7 @@ A machine learning-powered system that detects toxic comments and applies intell
 ## Project Structure
 
 ```
+
 toxic_comment/
 │
 ├── data/                  # Dataset
@@ -64,7 +65,18 @@ toxic_comment/
 
 ---
 
-## Installation
+## Dataset
+
+Due to size limitations, the dataset is not included in this repository.
+
+You can download it from:
+https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
+
+---
+
+
+
+## Installation\
 
 ```bash
 git clone https://github.com/your-username/toxic-comment-system.git
@@ -141,7 +153,6 @@ streamlit run app.py
 * Visualizes toxicity levels using heatmaps
 
 ---
-
 
 ## Demo
 
