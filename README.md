@@ -79,8 +79,8 @@ https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challeng
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/toxic-comment-system.git
-cd toxic-comment-system
+git clone https://github.com/Pravin232004/toxic-comment-filtering.git
+cd toxic-comment-filtering
 pip install -r requirements.txt
 ```
 
