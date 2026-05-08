@@ -19,3 +19,10 @@ Thumbs.db
 
 # VS Code
 .vscode/
+
+# Ignore data files
+data/
+*.csv
+
+# Ignore models (optional but recommended)
+models/
