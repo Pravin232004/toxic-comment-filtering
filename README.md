@@ -76,7 +76,7 @@ https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challeng
 
 
 
-## Installation\
+## Installation
 
 ```bash
 git clone https://github.com/your-username/toxic-comment-system.git
